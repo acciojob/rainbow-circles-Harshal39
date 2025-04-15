@@ -4,15 +4,10 @@
 	width:300px;
 	border-radius:50%;
 	background-color:rgb(255, 165, 0);
-	display:flex;
-	justify-content:center;
-	align-items:center;
 	border:25px solid rgb(255, 0, 0);
 }
 #middle{
-    display:flex;
-	justify-content:center;
-	align-items:center;
+    margin:25px;
 	height:200px;
 	width:200px;
 	border-radius:50%;
@@ -20,9 +15,7 @@
 	border:25px solid rgb(255,255,0);
 }
 #inner{
-	display:flex;
-	justify-content:center;
-	align-items:center;
+	margin:25px;
 	height:100px;
 	width:100px;
 	background-color:rgb(128, 0, 128);
