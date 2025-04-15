@@ -1,1 +1,55 @@
 /*  your css code here. If applicable */
+#outer{
+	height:300px;
+	width:300px;
+	border-radius:50%;
+	background-color:#ff0000;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+#middle{
+    display:flex;
+	justify-content:center;
+	align-items:center;
+	height:250px;
+	width:250px;
+	border-radius:50%;
+	background-color:#ffa500;
+}
+#inner{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:200px;
+	width:200px;
+	background-color:#ffff00;
+	border-radius:50%;
+}
+#inner1{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:150px;
+	width:150px;
+	background-color:#008000;
+	border-radius:50%;
+}
+#inner2{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:100px;
+	width:100px;
+	background-color:#0000ff;
+	border-radius:50%;
+}
+#inner3{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:50px;
+	width:50px;
+	background-color:#800080;
+	border-radius:50%;
+}
